@@ -1,0 +1,13 @@
+F:\ITI_.NET\C#_Project\C#_Project\C#_Project\bin\Debug\C#_Project.exe.config
+F:\ITI_.NET\C#_Project\C#_Project\C#_Project\bin\Debug\C#_Project.exe
+F:\ITI_.NET\C#_Project\C#_Project\C#_Project\bin\Debug\C#_Project.pdb
+F:\ITI_.NET\C#_Project\C#_Project\C#_Project\obj\Debug\C#_Project.csproj.AssemblyReference.cache
+F:\ITI_.NET\C#_Project\C#_Project\C#_Project\obj\Debug\C#_Project.csproj.SuggestedBindingRedirects.cache
+F:\ITI_.NET\C#_Project\C#_Project\C#_Project\obj\Debug\C__Project.LoginForm.resources
+F:\ITI_.NET\C#_Project\C#_Project\C#_Project\obj\Debug\C__Project.Properties.Resources.resources
+F:\ITI_.NET\C#_Project\C#_Project\C#_Project\obj\Debug\C#_Project.csproj.GenerateResource.cache
+F:\ITI_.NET\C#_Project\C#_Project\C#_Project\obj\Debug\C#_Project.csproj.CoreCompileInputs.cache
+F:\ITI_.NET\C#_Project\C#_Project\C#_Project\obj\Debug\C#_Project.exe
+F:\ITI_.NET\C#_Project\C#_Project\C#_Project\obj\Debug\C#_Project.pdb
+F:\ITI_.NET\C#_Project\C#_Project\C#_Project\obj\Debug\C__Project.AddForm.resources
+F:\ITI_.NET\C#_Project\C#_Project\C#_Project\obj\Debug\C__Project.RoomForm.resources
